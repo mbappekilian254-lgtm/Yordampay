@@ -1,0 +1,6 @@
+{
+  "name": "YordamPay - Shaffof Moliyaviy Yordam va Ta'sir Platformasi",
+  "description": "Money → Transparency → Impact. Ijtimoiy va mahalliy iqtisodiy loyihalarni shaffof moliyalashtirish, har bir so'm yo'lini kuzatish va tasdiqlangan natijani ko'rish fintech platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
